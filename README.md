@@ -4,7 +4,10 @@
 ### projekto pajungimas 
 
 1. npm i
-2. npm start
+2. cd front/
+3. npm start
+4. cd ..
+5. npm run dev
 
 
 ### projekte naudojama
@@ -22,8 +25,6 @@
 
 1. prisijugnimas: vardas@gmail.com
 2. slaptazodis: password@gmail.com
-
-
 
 
 
